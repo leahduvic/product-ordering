@@ -1,0 +1,9 @@
+.image {  
+   padding: 6px;  
+   width: 250;
+   height: 250;
+} 
+
+#navBar {
+    display: inline;
+}

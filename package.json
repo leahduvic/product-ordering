@@ -1,0 +1,26 @@
+{
+  "name": "product-ordering",
+  "version": "1.0.0",
+  "description": "",
+  "main": "proucts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leahduvic/product-ordering.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leahduvic/product-ordering/issues"
+  },
+  "homepage": "https://github.com/leahduvic/product-ordering#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browserify": "^5.2.0",
+    "grunt-contrib-uglify": "git://github.com/gruntjs/grunt-contrib-uglify.git#harmony",
+    "grunt-contrib-watch": "^1.0.0",
+    "gruntify-eslint": "^4.0.0"
+  }
+}
